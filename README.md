@@ -21,9 +21,10 @@
 - [How to create flowchart](http://creately.com/…/di…/flowchart-guide-flowchart-tutorial)
 - [iPhone Mockup Templates to Design iPhone Applications](http://creately.com/blog/diagrams/iphone-mockup-templates)
  
-### Below is list of possible thesis title (Ready-made apps is also available)
+### Below is list of possible capstone or thesis title (Ready-made apps is also available)
  ```
-Available on Android/iOS, PHP(Laravel, Codeigniter, Zend Framework)/MySQL/SQLite/PostgreSQL, Java/C#/VB.net, Ruby/ROR, NodeJS and other programming languages.
+Available on Android/iOS, PHP(Laravel, Codeigniter, Zend Framework)/MySQL/SQLite/PostgreSQL, 
+Java/C#/VB.net, Ruby/ROR, NodeJS and other programming languages.
  ```
 1. 3D Visualization of Conic Sections in XNA Game Programming Framework
 2. A 3D Immersive Environment for Visualising Robot Sensor Data
