@@ -12,6 +12,8 @@
     </p>
 </div>
 
+### Version: 2020 Thesis, Capstone and Project Title List
+
 ### List of available IT, CS, CpE and ECE Capstone or Thesis Titles
 - Visit us at: [Webmons Development Studio](https://webmons.com)
 - For Inquiries Please Text/Call: +63928-960-3036 or email us webmonsph@gmail.com
