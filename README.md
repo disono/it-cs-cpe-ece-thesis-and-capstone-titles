@@ -1,3 +1,17 @@
+<div align="center">
+    <img src="https://webmons.com/tmp/github-logo.jpg" alt="Webmons Development Studio" style="border-radius: 6px; width: 180px;">
+    <br>
+    <br>
+    <p align="center">
+        <a href="https://webmons.com/contact">
+        <b>List of open source tutorials and projects.</b>
+        <br />
+        Webmons Development Studio <b>Offers open source thesis, capstone and project files to help you build your awesome idea/projects on-time.</b>
+        <br />
+        </a>
+    </p>
+</div>
+
 ### List of available IT, CS, CpE and ECE Capstone or Thesis Titles
 - Visit us at: [Webmons Development Studio](https://webmons.com)
 - For Inquiries Please Text/Call: +63928-960-3036 or email us webmonsph@gmail.com
@@ -20,10 +34,10 @@
 - [Book Reviews](http://thesiswhisperer.com/category/book-reviews)
 - [How to create flowchart](http://creately.com/…/di…/flowchart-guide-flowchart-tutorial)
 - [iPhone Mockup Templates to Design iPhone Applications](http://creately.com/blog/diagrams/iphone-mockup-templates)
- 
+
 ### Below is list of possible capstone or thesis title (Ready-made apps is also available)
  ```
-Available on Android/iOS, PHP(Laravel, Codeigniter, Zend Framework)/MySQL/SQLite/PostgreSQL, 
+Available on Android/iOS, PHP(Laravel, Codeigniter, Zend Framework)/MySQL/SQLite/PostgreSQL,
 Java/C#/VB.net, Ruby/ROR, NodeJS and other programming languages.
  ```
 1. 3D Visualization of Conic Sections in XNA Game Programming Framework
