@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://webmons.com/tmp/github-logo.jpg" alt="Webmons Development Studio" style="border-radius: 6px; width: 180px;">
+    <img src="https://webmons.com/tmp/github-logo.jpg" alt="Webmons Development Studio">
     <br>
     <br>
     <p align="center">
